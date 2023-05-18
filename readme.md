@@ -1,7 +1,10 @@
-# Three.js Journey
+# Three.js Journey: exercices 13 & 14
+## 3D Text and Go Live
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
+My first deploy
+
+### Setup
+Download [Node.js](https://3d-text-amber.vercel.app/).
 Run this followed commands:
 
 ``` bash
@@ -14,3 +17,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+[Go live](https://nodejs.org/en/download/)
