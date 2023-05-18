@@ -18,4 +18,4 @@ npm run dev
 npm run build
 ```
 
-[Go live](https://nodejs.org/en/download/)
+[Go live](https://3d-text-amber.vercel.app/)
