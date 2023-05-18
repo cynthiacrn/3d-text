@@ -1,7 +1,7 @@
 # Three.js Journey: exercices 13 & 14
 ## 3D Text and Go Live
 
-My first deploy
+[Discover the project :v:](https://3d-text-amber.vercel.app/)
 
 ### Setup
 Download [Node.js](https://3d-text-amber.vercel.app/).
@@ -17,5 +17,3 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
-
-[Go live](https://3d-text-amber.vercel.app/)
