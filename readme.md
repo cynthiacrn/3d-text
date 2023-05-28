@@ -1,7 +1,7 @@
 # Three.js Journey: exercices 13 & 14
 ## 3D Text and Go Live
 
-[Discover the project :v:](https://3d-text-amber.vercel.app/)
+[Discover the project :v:](https://3d-text-cynthia-caron.vercel.app/)
 
 ### Setup
 Download [Node.js](https://3d-text-amber.vercel.app/).
